@@ -1,6 +1,12 @@
-# 🔐Simple Firebase Authentication System
+# 🔐 Simple Firebase Authentication System
 
 A simple and efficient Firebase authentication system built with modern web technologies to provide secure user authentication.
+
+### Live Demo
+
+Visit the live site to see the application in action:  
+[Simple Firebase Authentication](https://simple-firebase-authintication.netlify.app/)
+
 
 ## Features
 
